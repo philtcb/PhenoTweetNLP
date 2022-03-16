@@ -1,0 +1,4 @@
+False Negatives for Bart Zero-Shot learning: 
+Original Tweet: b'My fuchsia finally has one open bloom today! Lots of other bloom babies ready too. \xf0\x9f\xa5\xb0 She is thriving. https://t.co/jYOoAxR4Ja'
+Result label order:  ['comments', 'phenology', 'art', 'music', 'philosophy', 'education', 'movies', 'sports', 'electronics']
+Result label weights:  [0.29595470428466797, 0.261382132768631, 0.17024165391921997, 0.0631035640835762, 0.056266900151968, 0.04233066737651825, 0.04074392840266228, 0.03874340280890465, 0.031233033165335655]

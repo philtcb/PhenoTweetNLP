@@ -1,0 +1,177 @@
+False Positives for Bart Zero-Shot learning: 
+
+Original Tweet: b'Tweet #506 Plant Growth as of: 2020-05-20-17-02-45 Sydney Time https://t.co/PZFcYGQwnY'
+Result label order:  ['phenology', 'comments', 'art', 'education', 'music', 'philosophy', 'electronics', 'sports', 'movies']
+Result label weights:  [0.5080292820930481, 0.21431511640548706, 0.04988440126180649, 0.048208970576524734, 0.04133177921175957, 0.03900694102048874, 0.03701481223106384, 0.03272438421845436, 0.02948424033820629]
+
+Original Tweet: b'@BensBotanics @vpcook @Ness_Gardens It is best if pruned as tends to get straggly and sucker somewhat. However, you\xe2\x80\xa6 https://t.co/lpKizNpmey'
+Result label order:  ['phenology', 'comments', 'philosophy', 'electronics', 'education', 'art', 'sports', 'music', 'movies']
+Result label weights:  [0.3925526440143585, 0.23387885093688965, 0.0731712281703949, 0.06965138763189316, 0.05887824669480324, 0.049479205161333084, 0.04770208150148392, 0.04116111621260643, 0.03352528065443039]
+
+Original Tweet: b'RT @STUinSD: ....fruit of the poisoned tree.... https://t.co/GkISgKtdnY'
+Result label order:  ['phenology', 'comments', 'philosophy', 'movies', 'electronics', 'music', 'education', 'sports', 'art']
+Result label weights:  [0.7217498421669006, 0.17128951847553253, 0.06772875040769577, 0.008167737163603306, 0.007754444610327482, 0.006649184972047806, 0.006189935375005007, 0.006153609603643417, 0.004316972568631172]
+
+Original Tweet: b'Time to plant out! Lots of things going out this week! Cosmos, zinnias, Dianthus, beans, beets, dill to name a few!\xe2\x80\xa6 https://t.co/f7JWELH9vi'
+Result label order:  ['phenology', 'comments', 'philosophy', 'education', 'art', 'sports', 'music', 'electronics', 'movies']
+Result label weights:  [0.4235474169254303, 0.24447870254516602, 0.07565311342477798, 0.07020454108715057, 0.06499762833118439, 0.039421528577804565, 0.03839889541268349, 0.02373887598514557, 0.019559267908334732]
+
+Original Tweet: b'RT @Ivy_MiddletonUK: @ShraderGabriel The dogs that has lived longest ever and Guinness record was vegan, #dogs are omnivores so they thrive\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'philosophy', 'art', 'sports', 'electronics', 'education', 'movies', 'music']
+Result label weights:  [0.42228126525878906, 0.3002737760543823, 0.07865568995475769, 0.07204152643680573, 0.029572155326604843, 0.025240236893296242, 0.025086933746933937, 0.023709328845143318, 0.023139117285609245]
+
+Original Tweet: b'Peach blossom soooo goooddddd https://t.co/05hauu3bSp'
+Result label order:  ['phenology', 'comments', 'art', 'music', 'philosophy', 'sports', 'movies', 'education', 'electronics']
+Result label weights:  [0.5359624624252319, 0.2481182962656021, 0.14968881011009216, 0.013344947248697281, 0.011252309195697308, 0.011143595911562443, 0.01071103010326624, 0.010425563901662827, 0.009352940134704113]
+
+Original Tweet: b'Spring Wreaths, Hydrangea Wreath Year Round for Front Door, Grapevine Wreath Floral, Flower Wreath, Rustic Shabby C\xe2\x80\xa6 https://t.co/wSn3jS7NtZ'
+Result label order:  ['phenology', 'art', 'comments', 'philosophy', 'education', 'music', 'sports', 'movies', 'electronics']
+Result label weights:  [0.43299350142478943, 0.20712463557720184, 0.17456212639808655, 0.04497736319899559, 0.04075086861848831, 0.037796635180711746, 0.02172456495463848, 0.020952362567186356, 0.019118044525384903]
+
+Original Tweet: b'RT @westberksbrew: New ciders added to the webshop including @GardenCiderCo  Wild Strawberry and @sandfordorchard Old Blossom.\n\nLimited sto\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'education', 'art', 'philosophy', 'sports', 'electronics', 'music', 'movies']
+Result label weights:  [0.38071873784065247, 0.22968217730522156, 0.08485773205757141, 0.07096268981695175, 0.06652659177780151, 0.052942581474781036, 0.04597896710038185, 0.04084567725658417, 0.027484839782118797]
+
+Original Tweet: b'@AlwaysKSM922 @Stray_Kids Tree #StrayKids @Stray_Kids'
+Result label order:  ['phenology', 'comments', 'art', 'electronics', 'movies', 'philosophy', 'music', 'education', 'sports']
+Result label weights:  [0.5271600484848022, 0.26000285148620605, 0.07945936918258667, 0.02777736634016037, 0.02400769107043743, 0.023266106843948364, 0.022001059725880623, 0.018695848062634468, 0.01762966252863407]
+
+Original Tweet: b'RT @TheCitizen_News: Plant flowers for pollinators this World Bee Day\nhttps://t.co/o2VKMDtv8T'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'education', 'sports', 'music', 'electronics', 'movies']
+Result label weights:  [0.5756601095199585, 0.17627985775470734, 0.08382583409547806, 0.047369640320539474, 0.04151922091841698, 0.022139664739370346, 0.018672995269298553, 0.018154939636588097, 0.016377778723835945]
+
+Original Tweet: b'One tree hill'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'education', 'music', 'movies', 'sports', 'electronics']
+Result label weights:  [0.3801153302192688, 0.3206212818622589, 0.12126297503709793, 0.03419000282883644, 0.0325707383453846, 0.030253976583480835, 0.027387719601392746, 0.02738271653652191, 0.026215236634016037]
+
+Original Tweet: b"@LaurieLuckritz Mourning cloak butterfly eggs? I've been getting the butterflies a lot on my sage plant and have be\xe2\x80\xa6 https://t.co/yvHfvzJzWk"
+Result label order:  ['phenology', 'comments', 'art', 'education', 'philosophy', 'sports', 'music', 'movies', 'electronics']
+Result label weights:  [0.46695753931999207, 0.2537926733493805, 0.10133233666419983, 0.06200068071484566, 0.041242290288209915, 0.02076595090329647, 0.019259916618466377, 0.019166618585586548, 0.015482046641409397]
+
+Original Tweet: b"@colealtmann you've got this bud"
+Result label order:  ['phenology', 'comments', 'art', 'education', 'music', 'philosophy', 'sports', 'electronics', 'movies']
+Result label weights:  [0.331908643245697, 0.299005925655365, 0.13376177847385406, 0.0632304921746254, 0.04185227304697037, 0.037047263234853745, 0.03468025475740433, 0.03195853531360626, 0.026554875075817108]
+
+Original Tweet: b"Today's tree is A Green Ash in Jamaica, Queens. \xf0\x9f\x8c\xb3\n\nVisit Pitkin Avenue and say hello! \xf0\x9f\x91\x8b\n\nTrees help our city by abs\xe2\x80\xa6 https://t.co/EaPVV1Bffg"
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'education', 'music', 'sports', 'movies', 'electronics']
+Result label weights:  [0.490619033575058, 0.2820536196231842, 0.06042173132300377, 0.039644841104745865, 0.03316164016723633, 0.028835328295826912, 0.025432707741856575, 0.020447513088583946, 0.019383449107408524]
+
+Original Tweet: b'@_Korrimoe Snake plant, pothos or ZZ plant.'
+Result label order:  ['phenology', 'comments', 'art', 'education', 'sports', 'philosophy', 'electronics', 'music', 'movies']
+Result label weights:  [0.651078462600708, 0.1656358689069748, 0.055883314460515976, 0.03499150276184082, 0.0243064071983099, 0.019008656963706017, 0.01809665746986866, 0.01726676896214485, 0.013732307590544224]
+
+Original Tweet: b'RT @kthxangel: \xe2\x80\x94 for him; bloom.   \n#taekook #taekookau https://t.co/zgNQMweDti'
+Result label order:  ['phenology', 'art', 'comments', 'music', 'philosophy', 'education', 'movies', 'electronics', 'sports']
+Result label weights:  [0.47975024580955505, 0.13713553547859192, 0.11520379781723022, 0.07737717777490616, 0.06853456795215607, 0.058887142688035965, 0.024330856278538704, 0.02374567836523056, 0.01503493171185255]
+
+Original Tweet: b'RT @UCDEarth: We have recorded most bumblebees in wild areas of @UCDdublin campus that have not been mown to allow wild plants to flower (s\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'movies', 'education', 'sports', 'electronics', 'music']
+Result label weights:  [0.36799028515815735, 0.36452001333236694, 0.05346497520804405, 0.04917062073945999, 0.04755731299519539, 0.033245909959077835, 0.0314294770359993, 0.02858620695769787, 0.02403523214161396]
+
+Original Tweet: b'@snoopdemidogg White Castle dabs and purple god buds'
+Result label order:  ['phenology', 'comments', 'art', 'movies', 'electronics', 'music', 'sports', 'philosophy', 'education']
+Result label weights:  [0.3658852279186249, 0.24856950342655182, 0.08727161586284637, 0.07980889081954956, 0.05768969655036926, 0.05405326560139656, 0.05062346160411835, 0.028719082474708557, 0.027379248291254044]
+
+Original Tweet: b'@thepot35545808 @DMcIntyreWWE You are a plant pot'
+Result label order:  ['phenology', 'comments', 'art', 'education', 'philosophy', 'electronics', 'movies', 'music', 'sports']
+Result label weights:  [0.5659046769142151, 0.20877087116241455, 0.07665279507637024, 0.06950545310974121, 0.017321711406111717, 0.01624430902302265, 0.015736520290374756, 0.014997086487710476, 0.014866604469716549]
+
+Original Tweet: b'PISS TREE'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'electronics', 'movies', 'sports', 'music', 'education']
+Result label weights:  [0.5789238810539246, 0.3036889433860779, 0.03546745702624321, 0.017188217490911484, 0.015468621626496315, 0.014866111800074577, 0.014840271323919296, 0.011207838542759418, 0.008348686620593071]
+
+Original Tweet: b'This frog is annoying. I am a considerate plant.'
+Result label order:  ['phenology', 'comments', 'education', 'philosophy', 'movies', 'art', 'sports', 'electronics', 'music']
+Result label weights:  [0.49042776226997375, 0.34573909640312195, 0.0400695838034153, 0.028142806142568588, 0.021870702505111694, 0.021216420456767082, 0.01990204118192196, 0.017004024237394333, 0.015627553686499596]
+
+Original Tweet: b'RT @Elestor_BV: The BEST time to plant a tree was 20 years ago ...\n             The second best time is NOW !\n\nJoin us and make the differe\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'philosophy', 'art', 'education', 'electronics', 'movies', 'music', 'sports']
+Result label weights:  [0.4127136170864105, 0.24956850707530975, 0.1345507949590683, 0.08370376378297806, 0.03962955251336098, 0.022807931527495384, 0.020259827375411987, 0.019520938396453857, 0.017245102673768997]
+
+Original Tweet: b'RT @lexacleo: wolf\nigor\ngoblin \nflower boy\ncherry bomb'
+Result label order:  ['phenology', 'comments', 'art', 'movies', 'music', 'electronics', 'sports', 'education', 'philosophy']
+Result label weights:  [0.3272784650325775, 0.24771779775619507, 0.13551746308803558, 0.0940607562661171, 0.08716446161270142, 0.05976139008998871, 0.022039927542209625, 0.014087341725826263, 0.0123723354190588]
+
+Original Tweet: b'aver!!!!!!!!! CleanWell Botanical Hand Sanitizer Wipes, Citrus Thyme, 10 count (8 PK) - Travel Size, Alcohol Free,\xe2\x80\xa6 https://t.co/9mHGwbUmDC'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'education', 'music', 'sports', 'electronics', 'movies']
+Result label weights:  [0.7231990098953247, 0.13756296038627625, 0.05503961071372032, 0.024307575076818466, 0.021398520097136497, 0.010405662469565868, 0.00994687620550394, 0.009555795229971409, 0.008584052324295044]
+
+Original Tweet: b'RT @worldloveflower: Lilies are the happiest with friends!\n\nFor best results, plant #lilies in groups of three or five identical bulbs. Cre\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'education', 'music', 'sports', 'movies', 'electronics']
+Result label weights:  [0.548096239566803, 0.17635080218315125, 0.07894748449325562, 0.07507430762052536, 0.03367214649915695, 0.026277989149093628, 0.02308378927409649, 0.02070648968219757, 0.01779080368578434]
+
+Original Tweet: b'Found both in the temperate, tropical, and subtropical regions of the globe, this flowering rhizome-dependent plant\xe2\x80\xa6 https://t.co/1TiW1cfGgW'
+Result label order:  ['phenology', 'comments', 'art', 'sports', 'education', 'philosophy', 'movies', 'music', 'electronics']
+Result label weights:  [0.5669580698013306, 0.22189779579639435, 0.04917971417307854, 0.041670095175504684, 0.03514179587364197, 0.026410099118947983, 0.024846237152814865, 0.020103204995393753, 0.013793041929602623]
+
+Original Tweet: b"Sun's flower \xf0\x9f\x8c\xbb\xf0\x9f\x8c\x9e\xf0\x9f\x92\x9b https://t.co/Qh187B4uab"
+Result label order:  ['phenology', 'art', 'comments', 'sports', 'movies', 'music', 'education', 'electronics', 'philosophy']
+Result label weights:  [0.6283328533172607, 0.225593701004982, 0.069959856569767, 0.015324563719332218, 0.012615854851901531, 0.012432737275958061, 0.012229480780661106, 0.011762494221329689, 0.011748434975743294]
+
+Original Tweet: b'Cyclamen - Zone: 5-10 - Sun: Partial Sun to Full Shade https://t.co/RbvZXNlXI9 gardening landscaping'
+Result label order:  ['phenology', 'comments', 'philosophy', 'sports', 'art', 'music', 'electronics', 'education', 'movies']
+Result label weights:  [0.7748299837112427, 0.1270880401134491, 0.0176315288990736, 0.01479072030633688, 0.01464499719440937, 0.014006154611706734, 0.013605626299977303, 0.012975421734154224, 0.010427539236843586]
+
+Original Tweet: b'Goldfinch in a silver birch tree today. #Lumix https://t.co/Bpvcquveuf'
+Result label order:  ['phenology', 'comments', 'art', 'music', 'electronics', 'education', 'philosophy', 'movies', 'sports']
+Result label weights:  [0.4809582233428955, 0.19281697273254395, 0.12914803624153137, 0.050397470593452454, 0.03800790756940842, 0.03188081458210945, 0.028400687500834465, 0.0256960429251194, 0.022693827748298645]
+
+Original Tweet: b'@andersleehere Peaches don\xe2\x80\x99t fall far from the tree either. #stablegeniusclub'
+Result label order:  ['phenology', 'comments', 'education', 'art', 'philosophy', 'music', 'sports', 'electronics', 'movies']
+Result label weights:  [0.6201838254928589, 0.21535815298557281, 0.0362619124352932, 0.03554680570960045, 0.025114238262176514, 0.020328927785158157, 0.017667176201939583, 0.017395956441760063, 0.012143036350607872]
+
+Original Tweet: b"\xe2\x80\x9cYou the flower that I gotta protect\nAnd keep alive in the wintertime, hey, don't you die yet\xe2\x80\x9c"
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'education', 'music', 'electronics', 'sports', 'movies']
+Result label weights:  [0.320754736661911, 0.30186203122138977, 0.15977594256401062, 0.05359552055597305, 0.047071658074855804, 0.030978184193372726, 0.02874542772769928, 0.02863364666700363, 0.028582844883203506]
+
+Original Tweet: b'This years mdw consists of housework and building my cats their two tree condos https://t.co/f1eP71zYRZ'
+Result label order:  ['phenology', 'comments', 'sports', 'electronics', 'education', 'music', 'philosophy', 'movies', 'art']
+Result label weights:  [0.33566898107528687, 0.17450019717216492, 0.09118042141199112, 0.07620041817426682, 0.07147478312253952, 0.07137664407491684, 0.06764105707406998, 0.06442036479711533, 0.04753709211945534]
+
+Original Tweet: b'@ExplainEraser maybe being a paordy might help'
+Result label order:  ['phenology', 'music', 'comments', 'philosophy', 'sports', 'art', 'electronics', 'education', 'movies']
+Result label weights:  [0.388837605714798, 0.23063085973262787, 0.14285098016262054, 0.1111004427075386, 0.03893175721168518, 0.03107275441288948, 0.024642277508974075, 0.016475725919008255, 0.01545765995979309]
+
+Original Tweet: b'RT @aproudempath: Watching a Plant \xf0\x9f\x8c\xb1 bloom, withstanding and vanquishing all obstacles, is very reassuring.\nIt restores belief in Life and\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'movies', 'education', 'electronics', 'sports', 'music']
+Result label weights:  [0.39757442474365234, 0.23660634458065033, 0.17886708676815033, 0.10402003675699234, 0.027414416894316673, 0.017655860632658005, 0.013404455035924911, 0.012714838609099388, 0.011742538772523403]
+
+Original Tweet: b'amo mucho a hoseok flower'
+Result label order:  ['phenology', 'comments', 'art', 'music', 'movies', 'philosophy', 'education', 'sports', 'electronics']
+Result label weights:  [0.551835834980011, 0.22507882118225098, 0.15102316439151764, 0.01431388221681118, 0.014025275595486164, 0.012517272494733334, 0.011946653947234154, 0.010369018651545048, 0.00889004860073328]
+
+Original Tweet: b"The spotted lanternfly is an invasive species that's been confirmed in #Virginia. It threatens fruit crops and nati\xe2\x80\xa6 https://t.co/ne6ZlsKYBL"
+Result label order:  ['phenology', 'comments', 'education', 'philosophy', 'sports', 'movies', 'art', 'electronics', 'music']
+Result label weights:  [0.4575001001358032, 0.275345116853714, 0.06109094247221947, 0.0460626482963562, 0.0430813804268837, 0.0331161729991436, 0.03082771599292755, 0.02865472622215748, 0.02432120405137539]
+
+Original Tweet: b'@TIGERH0SHI smile flower \xf0\x9f\xa5\xba'
+Result label order:  ['phenology', 'art', 'comments', 'education', 'movies', 'music', 'sports', 'philosophy', 'electronics']
+Result label weights:  [0.6499037146568298, 0.24244694411754608, 0.04454429820179939, 0.012794142588973045, 0.012145653367042542, 0.010542396456003189, 0.009791411459445953, 0.009513288736343384, 0.008318143896758556]
+
+Original Tweet: b'AM I A PLANT'
+Result label order:  ['phenology', 'comments', 'philosophy', 'movies', 'art', 'education', 'electronics', 'music', 'sports']
+Result label weights:  [0.6559479236602783, 0.28594788908958435, 0.012416338548064232, 0.008940942585468292, 0.007885191589593887, 0.007679608650505543, 0.0074938018806278706, 0.0072189029306173325, 0.006469449494034052]
+
+Original Tweet: b'RT @brokenanax: so proud of bloom \xf0\x9f\xa5\xba\xf0\x9f\x92\x9b'
+Result label order:  ['phenology', 'comments', 'art', 'music', 'sports', 'movies', 'philosophy', 'electronics', 'education']
+Result label weights:  [0.39094114303588867, 0.1822531372308731, 0.17463138699531555, 0.05961226671934128, 0.05952543392777443, 0.0357784740626812, 0.03338951617479324, 0.03234987333416939, 0.03151879087090492]
+
+Original Tweet: b'@Deeckx The priory of the orange tree!'
+Result label order:  ['phenology', 'comments', 'art', 'education', 'music', 'philosophy', 'movies', 'sports', 'electronics']
+Result label weights:  [0.3439004123210907, 0.3120518922805786, 0.21799826622009277, 0.025021011009812355, 0.02383258566260338, 0.02275860123336315, 0.020073285326361656, 0.01965709775686264, 0.014706853777170181]
+
+Original Tweet: b'\xf0\x9f\x92\xab Cause after the storm is when the flowers bloom \xf0\x9f\x8c\xb7 https://t.co/wnQNxCwnG1'
+Result label order:  ['phenology', 'comments', 'art', 'philosophy', 'music', 'sports', 'electronics', 'movies', 'education']
+Result label weights:  [0.4656389355659485, 0.20439450442790985, 0.13144074380397797, 0.08101322501897812, 0.025836115702986717, 0.024464106187224388, 0.0242961086332798, 0.02293938584625721, 0.019976915791630745]
+
+Original Tweet: b'RT @bitfortip: 0.1 $NANO reward for the following: Looking to identify this plant.\n\nA link with scientific name will do.\nThanks\n\nhttps://t.\xe2\x80\xa6'
+Result label order:  ['phenology', 'comments', 'education', 'movies', 'art', 'philosophy', 'electronics', 'sports', 'music']
+Result label weights:  [0.373752623796463, 0.16890686750411987, 0.093085378408432, 0.06457652151584625, 0.06371618807315826, 0.061152342706918716, 0.06065908446907997, 0.058862339705228806, 0.05528870224952698]
+
+Original Tweet: b'flower girl \xf0\x9f\x92\x97 https://t.co/V3Ml6y20un'
+Result label order:  ['phenology', 'art', 'comments', 'education', 'movies', 'music', 'philosophy', 'electronics', 'sports']
+Result label weights:  [0.5506985783576965, 0.22673483192920685, 0.13757655024528503, 0.02949974685907364, 0.013900702819228172, 0.013496101833879948, 0.009649417363107204, 0.009410708211362362, 0.009033339098095894]
+
+Original Tweet: b'What is good to plant for bees and other pollinators? Flowers in the daisy family have flower heads made up of many\xe2\x80\xa6 https://t.co/Uw81UKqFnO'
+Result label order:  ['phenology', 'comments', 'education', 'philosophy', 'art', 'sports', 'music', 'electronics', 'movies']
+Result label weights:  [0.45276346802711487, 0.2674815356731415, 0.06794555485248566, 0.06418265402317047, 0.061113785952329636, 0.0277464110404253, 0.023828810080885887, 0.01956966146826744, 0.015368154272437096]
